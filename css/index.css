@@ -20,9 +20,9 @@ body {
 }
 .welcome-image {
   position: absolute;
-  width: 500px;
+  width: 350px;
   max-width: 100%;
-  left: 50px;
+  left: 40px;
   top: 10px;
   height: auto;
   margin: 20px 0;
