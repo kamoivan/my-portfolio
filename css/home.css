@@ -242,10 +242,6 @@ nav a:hover {
     display: flex;
     flex-direction: column;
   }
-  .carousel-track {
-    animation: none;
-    -webkit-animation: none;
-  }
   .hero {
     flex-direction: column;
     align-items: center;
